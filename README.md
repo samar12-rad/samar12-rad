@@ -123,13 +123,8 @@
 ```
 
 </h4>  
-  
-[![Samarth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samar12-rad&theme=high-contrast)](https://github.com/samar12-rad/github-readme-activity-graph)
 
 <br/>
-
-
-
 
 
 #
@@ -155,12 +150,6 @@
 
  Last Updated on 28/09/2024
 <!--END_SECTION:waka-->
-
-
-<p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
 
 #
 
