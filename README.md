@@ -23,13 +23,11 @@
 
 
 
-<p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=sama12-rad&style=flat&color=blue"> •   
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/samar12-rad?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/samar12-rad?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
  ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2055%20mins-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
-</p>
 
 
 #
