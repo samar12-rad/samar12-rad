@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<p><img align="right" height="250" width="300" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" alt="Samarth Vaidya" /></p>
+<p><img align="right" height="250" width="300" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Samarth Vaidya" /></p>
 
 
 
