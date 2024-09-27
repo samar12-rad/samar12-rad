@@ -124,17 +124,6 @@
 
 <br/>
 
-
-<br> <br>
-
-
- Last Updated on 28/09/2024
-<!--END_SECTION:waka-->
-
-#
-
-
-
 <h1>
   Connect With Me
   <a target="_blank">
