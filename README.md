@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<p><img align="right" height="250" width="300" src="https://github.com/samar12-rad/samar12-rad/blob/main/Animation%20-%201727465329089.gif" alt="SubhadeepZilong" /></p>
+<p><img align="right" height="250" width="300" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" alt="Samarth Vaidya" /></p>
 
 
 
