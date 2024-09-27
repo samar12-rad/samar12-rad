@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<p><img align="right" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc0Njg3NTQsIm5iZiI6MTcyNzQ2ODQ1NCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI3VDIwMjA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMwN2U2MTQ2YjNlNzY3ZmY0M2VhNjBiMTVmZWU0ZWNjYjNhMjBlMThhNGM0MzIyYjU3ZTJjYzA1ZWEyMjQwYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.K1wGi391_vmDBiq1wWBNBCKfib-RPqXfBQrYXcX-6Tg" alt="Samarth Vaidya" /></p>
+<p><img align="right" width="600" height="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc0Njg3NTQsIm5iZiI6MTcyNzQ2ODQ1NCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI3VDIwMjA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMwN2U2MTQ2YjNlNzY3ZmY0M2VhNjBiMTVmZWU0ZWNjYjNhMjBlMThhNGM0MzIyYjU3ZTJjYzA1ZWEyMjQwYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.K1wGi391_vmDBiq1wWBNBCKfib-RPqXfBQrYXcX-6Tg" alt="Samarth Vaidya" /></p>
 
 
 
@@ -25,10 +25,10 @@
 
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=sama12-rad&style=flat&color=blue"> •   
-  <a href="https://user-badge.committers.top/india_private/samar12-rad"><img src="https://user-badge.committers.top/india_private/samar12-rad.svg"></a> •
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/samar12-rad?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/samar12-rad?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/samar12-rad"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+ ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2055%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
 </p>
 
 
@@ -140,9 +140,7 @@
 
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2055%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
 
 
 <br> <br>
