@@ -127,13 +127,17 @@
 
 <p align="right">
   <a href="https://www.linkedin.com/in/samarth-vaidya-b453a5243/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
+    <code><img height="90" width="90" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/></code>
   </a>
   
   <a href="https://www.instagram.com/samarth_sv/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
+    <code><img height="60" width="60" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"/></code>
+  </a>
+  <a href="https://discord.gg/N9tPjX9y" target="_blank">
+    <code><img height="60" width="60" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"/></code>
   </a>
   </p>
+  <br>
 </div>
 
 
