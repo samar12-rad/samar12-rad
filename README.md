@@ -28,9 +28,9 @@
 
 
 #
-
+<p align="center">
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=samar12-rad&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
-
+</p>
 <p align="center">
   <img height="150" width="150" src="https://github.com/samar12-rad/samar12-rad/blob/main/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samar12-rad&theme=dark&hide_border=true"/>
