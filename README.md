@@ -119,7 +119,7 @@
 
 <br/>
 
-<p aliign="center">
+<div aliign="center">
   <h1>Connect With Me</h1>
   <a target="_blank">
     <img src="https://private-user-images.githubusercontent.com/74038190/238355372-4aba8602-6a81-4772-af1f-f593ee6c389f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc0OTk2MjgsIm5iZiI6MTcyNzQ5OTMyOCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNzItNGFiYTg2MDItNmE4MS00NzcyLWFmMWYtZjU5M2VlNmMzODlmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI4VDA0NTUyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThhZjU2YWU0ZTQyOTIxNThiNTE1MjE4MzEzNWVkYWUxMjRlM2YyOWZkODU2ZmY0ZDRkMzRiNGQ5NDUyNjlmN2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XIDTIhhQh7DUiAT5JQsBPWQuCaZmBFu4-W8ZUeIaFxw" height="55px">
@@ -133,7 +133,7 @@
   <a href="https://www.instagram.com/samarth_sv/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
   </a>
-</p>
+</div>
 
 
 
