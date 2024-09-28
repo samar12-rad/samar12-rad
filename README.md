@@ -125,17 +125,17 @@
     <img align="left" src="https://private-user-images.githubusercontent.com/74038190/238355372-4aba8602-6a81-4772-af1f-f593ee6c389f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc0OTk2MjgsIm5iZiI6MTcyNzQ5OTMyOCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNzItNGFiYTg2MDItNmE4MS00NzcyLWFmMWYtZjU5M2VlNmMzODlmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI4VDA0NTUyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThhZjU2YWU0ZTQyOTIxNThiNTE1MjE4MzEzNWVkYWUxMjRlM2YyOWZkODU2ZmY0ZDRkMzRiNGQ5NDUyNjlmN2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XIDTIhhQh7DUiAT5JQsBPWQuCaZmBFu4-W8ZUeIaFxw" height="400px">
   </a>
 
-<p align="right">
+<p align="center">
   <a href="https://www.linkedin.com/in/samarth-vaidya-b453a5243/" target="_blank">
     <img height="90" width="90" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>
   </a>
   </p>
-  <p align="right">
+  <p align="center">
   <a href="https://www.instagram.com/samarth_sv/" target="_blank">
     <img height="60" width="60" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"/>
   </a>
   </p>
-  <p align="right">
+  <p align="center">
   <a href="https://discord.gg/N9tPjX9y" target="_blank">
     <img height="60" width="60" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"/>
   </a>
