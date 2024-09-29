@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-<p><img align="right" width="600" height="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc0Njg3NTQsIm5iZiI6MTcyNzQ2ODQ1NCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI3VDIwMjA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMwN2U2MTQ2YjNlNzY3ZmY0M2VhNjBiMTVmZWU0ZWNjYjNhMjBlMThhNGM0MzIyYjU3ZTJjYzA1ZWEyMjQwYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.K1wGi391_vmDBiq1wWBNBCKfib-RPqXfBQrYXcX-6Tg" alt="Samarth Vaidya" /></p>
+<p><img align="right" width="600" height="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" alt="Samarth Vaidya" /></p>
 
 
 
