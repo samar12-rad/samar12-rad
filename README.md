@@ -2,7 +2,7 @@
 <h1>𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! </h1>
 </div>
 <br/>
-<br/>
+<br/> 
 
 <p><img align="right" width="600" height="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" alt="Samarth Vaidya" /></p>
 
