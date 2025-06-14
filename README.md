@@ -8,11 +8,11 @@
  
 
 
-- 🔭 I’m currently working on **Peer Connect - Socializing Platform for coders**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Full Stack programming.**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **MERN, Design or Open Source Projects .**
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖.**
-- ⚡ **𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 The 𝙴𝚗𝚍.**
+- 🔭 I’m currently building **Peer Connect – a social platform for coders** with real-time features and scalable architecture.  
+- 🌱 I’m currently learning more about **distributed systems, workflow orchestration, and MLOps**.  
+- 👯 I’m open to collaborating on **TypeScript, Backend, DevOps, or Open Source infrastructure projects**.  
+- 😄 Pronouns: **He/Him**  
+- ⚡ **Curious about systems, obsessed with clean code, and always shipping.**
 
 <br/>
 <br/>
