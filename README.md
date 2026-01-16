@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/samar12-rad/samar12-rad/main/samarth.svg?v=1" width="100%" alt="Samar12-rad animation" />
 </div>
 
-### Hi Devs, I’m Samarth👋
+### Hi Devs, I’m Samarth👋 <a href='https://portfolio-website-neon-mu-41.vercel.app/'>My portfolio</a>
 
 Performance focused engineer who enjoys reasoning about systems, profiling bottlenecks, and turning slow or fragile codepaths into predictable, scalable ones.
 
