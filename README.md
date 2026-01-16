@@ -1,138 +1,95 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samar12-rad/samar12-rad/main/samarth.svg" />
-</p>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer · Performance Enthusiast
-</h3>
+<img src="https://raw.githubusercontent.com/samar12-rad/samar12-rad/main/samarth.svg" width="600" />
 
-<p align="center">
-I build real world products, optimize performance bottlenecks, and own features end to end.  
-I care about clean architecture, measurable impact, and writing code that scales.
-</p>
+### Hi, I’m Samar 👋
+
+Performance focused full stack developer who enjoys building reliable systems, scalable frontends, and clean developer experiences.
+
+</div>
 
 ---
 
-### 👋 Hi there, I'm Samar
+## 🚀 About Me
 
-<br />
-
-- 💻 Currently working on **Perfolyze**, a performance monitoring and analytics solution  
-- 🌱 Deepening my Full Stack skills with **TypeScript, React, Node.js, Go, Rust**  
-- 👯 Open to collaborating on meaningful **Open Source** projects  
-- 😄 Pronouns: He Him  
-- ⚡ Fun fact: I optimize performance by day and debate JavaScript frameworks by night  
+* 💻 Currently working on **Perfolyze**, a performance monitoring and optimization platform
+* 🌱 Actively building with **TypeScript, React, Node.js, Go, and Rust**
+* 🧠 Strong interest in performance engineering, system design, and developer tooling
+* 🤝 Open to collaborating on meaningful open source projects
+* ⚡ Fun fact: I optimize performance by day and debate JavaScript frameworks by night
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages & Tools
 
 <p align="left">
-<img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-<img alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
-<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</p>
-
-<br />
-
----
-
-### ⭐ Featured Projects
-
-<p align="center">
-  <a href="https://github.com/samar12-rad/perfolyze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samar12-rad&repo=perfolyze&theme=nord" />
-  </a>
-  <a href="https://github.com/samar12-rad/peer-connect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samar12-rad&repo=peer-connect&theme=nord" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/samar12-rad/envoy-config-rs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samar12-rad&repo=envoy-config-rs&theme=nord" />
-  </a>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" width="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" width="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="26" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="26" />
 </p>
 
 ---
 
-### 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samar12-rad&theme=onedark&v=1" />
-</p>
+## 🌟 Featured Work
 
+### 🔹 Perfolyze
 
----
+Performance monitoring and optimization solution focused on identifying bottlenecks and improving real world application speed.
 
-### 📊 GitHub Stats
+### 🔹 Peer Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samar12-rad&theme=nord&show_icons=true&count_private=true" />
-</p>
+A hackathon matchmaking platform that helps participants and teams connect efficiently based on skills and interests.
 
----
+### 🔹 Envoy Config RS
 
-### 👨‍💻 Top Languages Used
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samar12-rad&theme=nord_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samar12-rad&theme=nord_dark" />
-</p>
+A Rust based project focused on configuration handling and experimentation around Envoy style systems.
 
 ---
 
-### 📈 GitHub Activity Graph
+## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samar12-rad&theme=github" />
-</p>
-
----
-
-### 🪙 Achievements
-
-<p align="center">
-  <img src="https://holopin.me/samar12rad" />
-</p>
-
----
-
-### 😄 Can Connect With Me On
-
-<p align="center">
-<a href="https://github.com/samar12-rad">
-  <img width="24px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/samar12-rad/">
-  <img width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/samar12_rad">
-  <img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:your.email@example.com">
-  <img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a>
-</p>
+<img
+src="https://metrics.lecoq.io/samar12-rad?template=classic
+&base.header=0
+&base.activity=1
+&base.community=1
+&base.repositories=1
+&base.metadata=0
+&languages=1
+&languages.indepth=1
+&languages.limit=10
+&languages.details=bytes-size
+&repositories=1
+&repositories.featured=peer-connect
+&repositories.pinned=perfolyze
+&activity=1
+&activity.limit=5
+&stargazers=1
+&lines=1
+&achievements=1
+&config.timezone=Asia/Kolkata"
+alt="GitHub Metrics"
+/>
 
 ---
 
-### 📍 Profile Visitor Count
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/samar12-rad"><img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="26" /></a>
+  <a href="https://www.linkedin.com/in/samar12-rad/"><img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Linkedin.svg" width="26" /></a>
+  <a href="https://twitter.com/samar12_rad"><img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Twitter.svg" width="26" /></a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/samar12-rad/count.svg" />
 </p>
-
----
-
-*Note: Top languages reflect GitHub activity, not skill level.*
