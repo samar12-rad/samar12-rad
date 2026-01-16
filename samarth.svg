@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 500" width="100%" height="100%">
+  <defs>
+    <mask id="draw-mask">
+      <path
+        d="M50 250 
+           C150 50, 350 50, 450 250
+           S750 450, 900 250
+           S1150 50, 1350 250
+           S1550 450, 1750 250"
+        fill="none"
+        stroke="white"
+        stroke-width="40"
+        stroke-linecap="round"
+        stroke-dasharray="3000"
+        stroke-dashoffset="3000">
+        <animate
+          attributeName="stroke-dashoffset"
+          from="3000"
+          to="0"
+          dur="6s"
+          fill="freeze"/>
+      </path>
+    </mask>
+  </defs>
+
+  <g mask="url(#draw-mask)">
+    <text
+      x="50%"
+      y="55%"
+      text-anchor="middle"
+      font-size="180"
+      font-family="Segoe Script, cursive"
+      fill="#1F61A5"
+      stroke="#ffffff"
+      stroke-width="1">
+      Samarth Vaidya
+    </text>
+  </g>
+</svg>
