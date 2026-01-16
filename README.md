@@ -1,6 +1,7 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/samar12-rad/samar12-rad/main/samarth.svg" width="600" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/samar12-rad/samar12-rad/main/samarth.svg?v=1" width="100%" alt="Samar12-rad animation" />
+</div>
 
 ### Hi Devs, I’m Samarth👋
 
