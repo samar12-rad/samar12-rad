@@ -65,10 +65,10 @@ I care about clean architecture, measurable impact, and writing code that scales
 ---
 
 ### 🏆 GitHub Profile Trophy
-
 <p align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=samar12-rad&column=8&theme=darkhub&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=samar12-rad&theme=onedark&v=1" />
 </p>
+
 
 ---
 
