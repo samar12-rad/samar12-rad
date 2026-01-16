@@ -57,7 +57,7 @@ A Rust based project focused on configuration handling and experimentation aroun
 
 ## 📊 Metrics
 
-<img src="https://metrics.lecoq.io/samar12-rad" alt="GitHub Metrics" />
+<img src="./metrics.svg" />
 
 ---
 
