@@ -1,9 +1,12 @@
 name: Metrics
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   metrics:
@@ -13,17 +16,20 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: samar12-rad
+
           template: classic
-
           base: header, activity, repositories
-          languages: yes
-          languages.indepth: yes
-          languages.limit: 10
 
-          repositories.featured: peer-connect
-          repositories.pinned: perfolyze
+          plugin_languages: yes
+          plugin_languages_limit: 10
 
-          activity: yes
-          activity.limit: 5
+          plugin_activity: yes
+          plugin_activity_limit: 5
 
-          timezone: Asia/Kolkata
+          plugin_repositories: yes
+          plugin_repositories_featured: peer-connect
+          plugin_repositories_pinned: perfolyze
+
+          config_timezone: Asia/Kolkata
+
+          filename: metrics.svg
