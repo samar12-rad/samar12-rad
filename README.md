@@ -96,8 +96,4 @@ A Rust based systems experiment.
   </sub>
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/samar12-rad/count.svg" />
-</p>
-
 > Interested in performance critical systems, early stage products, and engineering problems that require careful thinking rather than brute force.
