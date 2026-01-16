@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/samar12-rad/samar12-rad/main/samarth.svg" width="600" />
 
-### Hi, I’m Samar 👋
+### Hi Devs, I’m Samarth👋
 
 Performance focused engineer who enjoys reasoning about systems, profiling bottlenecks, and turning slow or fragile codepaths into predictable, scalable ones.
 
@@ -14,29 +14,25 @@ Performance focused engineer who enjoys reasoning about systems, profiling bottl
 
 ## 🧠 About Me
 
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
 * I like understanding *why* systems behave the way they do under load
 * I care deeply about performance, correctness, and long term maintainability
 * I enjoy working close to the metal when needed, and close to users when it matters
 * I prefer simple architectures that scale through good decisions, not patches
 * I’m comfortable owning features end to end, from design to production
 
----
+</td>
+<td width="40%" align="center">
 
-## 🧰 Tech I Reach For
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/samar12-rad?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
-**Primary**: TypeScript, JavaScript, React, Node.js
-**Systems & Backend**: Go, Rust
-**Frontend & Styling**: HTML, CSS, Tailwind CSS
-**Tooling**: Git, GitHub, profiling and debugging tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="26" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="26" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="26" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="26" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" width="26" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" width="26" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -76,20 +72,27 @@ A Rust based systems experiment.
 
 ---
 
-## 📈 GitHub Signal
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samar12-rad&show_icons=true&rank_icon=github&hide_title=true" />
-</p>
-
----
-
 ## 🌐 Find Me Online
 
+
 <p align="center">
-  <a href="https://github.com/samar12-rad"><img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="26" /></a>
-  <a href="https://www.linkedin.com/in/samar12-rad/"><img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Linkedin.svg" width="26" /></a>
-  <a href="https://twitter.com/samar12_rad"><img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Twitter.svg" width="26" /></a>
+  <a href="https://github.com/samar12-rad">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="24" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/samarth-vaidya-b453a5243/">
+    <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Linkedin.svg" width="24" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/samarthv1212">
+    <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Twitter.svg" width="24" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    GitHub · LinkedIn · Twitter
+  </sub>
 </p>
 
 <p align="center">
