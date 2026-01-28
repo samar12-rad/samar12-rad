@@ -39,7 +39,7 @@ Performance focused engineer who enjoys reasoning about systems, profiling bottl
 
 ## 🔬 Things I’ve Built
 
-### 🔹 Perfolyze
+### 🔹 <a href="https://github.com/samar12-rad/perfolyze">Perfolyze</a> 
 
 A performance monitoring and analysis platform.
 
@@ -47,7 +47,7 @@ A performance monitoring and analysis platform.
 * Helps identify bottlenecks across frontend and backend boundaries
 * Designed with observability, low overhead, and signal to noise ratio in mind
 
-### 🔹 Peer Connect
+### 🔹 <a href="https://github.com/samar12-rad/Peer-Connect">Peer Connect</a>
 
 A hackathon matchmaking system.
 
@@ -55,7 +55,7 @@ A hackathon matchmaking system.
 * Optimized for fast discovery and low friction onboarding
 * Built with a strong focus on UX performance and responsiveness
 
-### 🔹 Envoy Config RS
+### 🔹 <a href="https://github.com/samar12-rad/envoy-config-rs">Envoy Config RS</a>
 
 A Rust based systems experiment.
 
